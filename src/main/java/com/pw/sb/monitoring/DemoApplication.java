@@ -1,4 +1,4 @@
-package com.pw.sb.demo;
+package com.pw.sb.monitoring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

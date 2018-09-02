@@ -1,4 +1,4 @@
-package com.pw.sb.demo.generator;
+package com.pw.sb.monitoring.generator;
 
 import uk.co.jemos.podam.api.PodamFactory;
 import uk.co.jemos.podam.api.PodamFactoryImpl;
