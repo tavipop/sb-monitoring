@@ -1,8 +1,8 @@
-package com.pw.sb.demo.web;
+package com.pw.sb.monitoring.web;
 
 
-import com.pw.sb.demo.generator.FluxGenerator;
-import com.pw.sb.demo.model.Person;
+import com.pw.sb.monitoring.generator.FluxGenerator;
+import com.pw.sb.monitoring.model.Person;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;

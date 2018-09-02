@@ -1,4 +1,4 @@
-package com.pw.sb.demo.model;
+package com.pw.sb.monitoring.model;
 
 import lombok.Getter;
 import lombok.Setter;

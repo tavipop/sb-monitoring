@@ -1,4 +1,4 @@
-package com.pw.sb.demo;
+package com.pw.sb.monitoring;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
